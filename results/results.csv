@@ -1,0 +1,7 @@
+test,observed,status,evidence
+T1,600 blocks written,PASS,Project report section 5
+T2,0 tag mismatches,PASS,Project report section 5
+T3,Unlink without reported panic or leak,PASS,Project report section 5
+T4,Three RPC opcodes invoked successfully,PASS,Project report section 5
+Memory,448 KiB against 128 MiB limit,Reported observation,Project report section 4.3.3
+Maximum capacity,16523 blocks,Calculated,Project report section 3.2
